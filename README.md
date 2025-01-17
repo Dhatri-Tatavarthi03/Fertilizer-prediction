@@ -20,7 +20,7 @@ Cost Efficiency: Optimized fertilizer usage reduces costs associated with over-f
 Sustainability: Promotes sustainable farming practices by preventing nutrient runoff and soil degradation.
 Installation
 Install the required dependencies:
-Usage
+Usage 
 Prepare your dataset with the necessary parameters (moisture, nitrogen, potassium, phosphorus, soil type, crop type).
 Run the model training script:
 python train_model.py
